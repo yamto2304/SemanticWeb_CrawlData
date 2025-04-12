@@ -1,7 +1,8 @@
 from SPARQLWrapper import SPARQLWrapper, JSON
 from initiation import init_sparql, create_dynasties_query, create_dynasty_details_query
-from save_utils import save_to_csv, save_to_json, save_all_dynasties_details
-from read_utils import read_dynasties_json
+from save_utils import save_to_csv, save_to_json, save_all_dynasties_details, list_file_name
+from read_utils import read_json_file
+from person_crawler import get_famous_people_in_dynasty
 import pandas as pd
 import logging
 
@@ -86,7 +87,7 @@ def aggregate_dynasties_details(dynasties, sparql):
 def get_dynasty_details(dynasties_file, output_file):
     """Lấy chi tiết của từng triều đại từ file JSON và lưu kết quả."""
     # Đọc danh sách triều đại
-    dynasties = read_dynasties_json(dynasties_file)
+    dynasties = read_json_file(dynasties_file)
     if not dynasties:
         print("Không thể đọc danh sách triều đại.")
         return
@@ -100,7 +101,7 @@ def get_dynasty_details(dynasties_file, output_file):
     # Lưu kết quả
     save_all_dynasties_details(all_dynasty_details, output_file)
 
-# Hàm chính 1: Điều phối toàn bộ quy trình
+# Hàm chính: Điều phối toàn bộ quy trình
 def get_vietnamese_dynasties(category_url):
     """Lấy danh sách triều đại Việt Nam từ category URL."""
     # Chuyển URL sang URI
@@ -131,19 +132,26 @@ def get_vietnamese_dynasties(category_url):
     
     # Lưu vào json
     columns = ["uri", "label"]
-    save_to_json(dynasties, columns, "vietnamese_dynasties.json")
+    save_to_json(dynasties, columns, list_file_name[0])
     
     return dynasties
 
 # Chạy chương trình
 def main():
-    # category_url = "https://dbpedia.org/page/Category:Vietnamese_dynasties"
-    # print(f"Đang truy vấn danh sách triều đại từ: {category_url}")
-    # get_vietnamese_dynasties(category_url)
-    dynasties_file = "vietnamese_dynasties.json"
-    output_file = "vietnamese_dynasties_details.json"
+    category_url = "https://dbpedia.org/page/Category:Vietnamese_dynasties"
+    dynasties_file = list_file_name[0]
+    output_file = list_file_name[1]
+
+    # Lấy danh sách triều đại từ DBpedia
+    print(f"Đang truy vấn danh sách triều đại từ: {category_url}")
+    get_vietnamese_dynasties(category_url)
+    
+    # Lấy chi tiết từng triều đại 
     print(f"Đang xử lý file: {dynasties_file}")
     get_dynasty_details(dynasties_file, output_file)
+
+    # Lấy ra danh sách người nổi tiếng trong triều đại
+    get_famous_people_in_dynasty(list_file_name[1], list_file_name[2])
 
 if __name__ == "__main__":
     main()

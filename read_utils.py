@@ -1,7 +1,7 @@
 import logging
 import json
 
-def read_dynasties_json(filename):
+def read_json_file(filename):
     """Đọc danh sách triều đại từ file JSON."""
     try:
         with open(filename, 'r', encoding='utf-8') as f:

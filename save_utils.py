@@ -2,6 +2,13 @@ import pandas as pd
 import logging
 import json
 
+list_file_name = [
+    "vietnamese_dynasties.json",
+    "vietnamese_dynasties_details.json",
+    "vietnamese_famous_people.json",
+    "vietnamese_dynasties_details_2.json",
+]
+
 def save_to_csv(data, columns, filename):
     if len(data) == 0:
         logging.warning(f"Không có dữ liệu để lưu vào file {filename}.")

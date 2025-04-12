@@ -1,4 +1,0 @@
- {
-    "uri":"http:\/\/dbpedia.org\/resource\/List_of_monarchs_of_Vietnam",
-    "label":"List of monarchs of Vietnam"
-  },

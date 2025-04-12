@@ -1,0 +1,975 @@
+[
+    {
+        "dynasty_uri": "http://dbpedia.org/resource/Lý_dynasty",
+        "dynasty_label": "Lý dynasty",
+        "famous_people": [
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Văn_Thịnh",
+                "person_label": "Lê Văn Thịnh"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Cao_Tông",
+                "person_label": "Lý Cao Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Đạo_Thành",
+                "person_label": "Lý Đạo Thành"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Bhikkhu",
+                "person_label": "Bhikkhu"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Emperor_Shizong_of_Jin",
+                "person_label": "Emperor Shizong of Jin"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Vạn_Hạnh",
+                "person_label": "Vạn Hạnh"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Long_Đĩnh",
+                "person_label": "Lê Long Đĩnh"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Chiêu_Hoàng",
+                "person_label": "Lý Chiêu Hoàng"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Huệ_Tông",
+                "person_label": "Lý Huệ Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Nhân_Tông",
+                "person_label": "Lý Nhân Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Thái_Tông",
+                "person_label": "Lý Thái Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Thái_Tổ",
+                "person_label": "Lý Thái Tổ"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Thánh_Tông",
+                "person_label": "Lý Thánh Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Thường_Kiệt",
+                "person_label": "Lý Thường Kiệt"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Thần_Tông",
+                "person_label": "Lý Thần Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Anh_Tông",
+                "person_label": "Lý Anh Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Thủ_Độ",
+                "person_label": "Trần Thủ Độ"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Wang_Anshi",
+                "person_label": "Wang Anshi"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Liễu",
+                "person_label": "Trần Liễu"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Fan_Chengda",
+                "person_label": "Fan Chengda"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Thừa",
+                "person_label": "Trần Thừa"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Song_dynasty",
+                "person_label": "Song dynasty"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Tô_Hiến_Thành",
+                "person_label": "Tô Hiến Thành"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Đỗ_Anh_Vũ",
+                "person_label": "Đỗ Anh Vũ"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Rudravarman_III",
+                "person_label": "Rudravarman III"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Ỷ_Lan",
+                "person_label": "Ỷ Lan"
+            }
+        ]
+    },
+    {
+        "dynasty_uri": "http://dbpedia.org/resource/Early_Lý_dynasty",
+        "dynasty_label": "Early Lý dynasty",
+        "famous_people": [
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Thiên_Bảo",
+                "person_label": "Lý Thiên Bảo"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_dynasty",
+                "person_label": "Lý dynasty"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Chen_dynasty",
+                "person_label": "Chen dynasty"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Emperor",
+                "person_label": "Emperor"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Emperor_Wen_of_Sui",
+                "person_label": "Emperor Wen of Sui"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Emperor_Wu_of_Chen",
+                "person_label": "Emperor Wu of Chen"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Liu_Fang",
+                "person_label": "Liu Fang"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Nam_Đế",
+                "person_label": "Lý Nam Đế"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Võ_Nguyên_Giáp",
+                "person_label": "Võ Nguyên Giáp"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Hậu_Lý_Nam_Đế",
+                "person_label": "Hậu Lý Nam Đế"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Triệu_Việt_Vương",
+                "person_label": "Triệu Việt Vương"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Nam_Đế",
+                "person_label": "Lý Nam Đế"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Hậu_Lý_Nam_Đế",
+                "person_label": "Hậu Lý Nam Đế"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Triệu_Việt_Vương",
+                "person_label": "Triệu Việt Vương"
+            }
+        ]
+    },
+    {
+        "dynasty_uri": "http://dbpedia.org/resource/Đinh_dynasty",
+        "dynasty_label": "Đinh dynasty",
+        "famous_people": [
+            {
+                "person_uri": "http://dbpedia.org/resource/Dương_Tam_Kha",
+                "person_label": "Dương Tam Kha"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Dương_Vân_Nga",
+                "person_label": "Dương Vân Nga"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Dương_Đình_Nghệ",
+                "person_label": "Dương Đình Nghệ"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Đinh_Hạng_Lang",
+                "person_label": "Đinh Hạng Lang"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Hoàn",
+                "person_label": "Lê Hoàn"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Đinh_Bộ_Lĩnh",
+                "person_label": "Đinh Bộ Lĩnh"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Hou_Renbao",
+                "person_label": "Hou Renbao"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Song_dynasty",
+                "person_label": "Song dynasty"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Nguyễn_Bặc",
+                "person_label": "Nguyễn Bặc"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Ngô_Quyền",
+                "person_label": "Ngô Quyền"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Ngô_Xương_Ngập",
+                "person_label": "Ngô Xương Ngập"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Ngô_Xương_Văn",
+                "person_label": "Ngô Xương Văn"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/O._W._Wolters",
+                "person_label": "O. W. Wolters"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Wu_Yantong",
+                "person_label": "Wu Yantong"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Đinh_Phế_Đế",
+                "person_label": "Đinh Phế Đế"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Nguyễn_Bặc",
+                "person_label": "Nguyễn Bặc"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Đinh_Bộ_Lĩnh",
+                "person_label": "Đinh Bộ Lĩnh"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Đinh_Bộ_Lĩnh",
+                "person_label": "Đinh Bộ Lĩnh"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Đinh_Phế_Đế",
+                "person_label": "Đinh Phế Đế"
+            }
+        ]
+    },
+    {
+        "dynasty_uri": "http://dbpedia.org/resource/Mạc_dynasty",
+        "dynasty_label": "Mạc dynasty",
+        "famous_people": [
+            {
+                "person_uri": "http://dbpedia.org/resource/Mạc_Mậu_Hợp",
+                "person_label": "Mạc Mậu Hợp"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Mạc_Đĩnh_Chi",
+                "person_label": "Mạc Đĩnh Chi"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Chiêu_Tông",
+                "person_label": "Lê Chiêu Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Cung_Hoàng",
+                "person_label": "Lê Cung Hoàng"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Tương_Dực",
+                "person_label": "Lê Tương Dực"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Uy_Mục",
+                "person_label": "Lê Uy Mục"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trịnh_Tùng",
+                "person_label": "Trịnh Tùng"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Mạc_Đăng_Dung",
+                "person_label": "Mạc Đăng Dung"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trịnh_Kiểm",
+                "person_label": "Trịnh Kiểm"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Chiêu_Thống",
+                "person_label": "Lê Chiêu Thống"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Trang_Tông",
+                "person_label": "Lê Trang Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Kangxi_Emperor",
+                "person_label": "Kangxi Emperor"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Nguyễn_Hoàng",
+                "person_label": "Nguyễn Hoàng"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Nguyễn_Kim",
+                "person_label": "Nguyễn Kim"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Mạc_Kính_Khoan",
+                "person_label": "Mạc Kính Khoan"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Mạc_Kính_Vũ",
+                "person_label": "Mạc Kính Vũ"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Photisarath",
+                "person_label": "Photisarath"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Taishang_Huang",
+                "person_label": "Taishang Huang"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Mạc_Đăng_Dung",
+                "person_label": "Mạc Đăng Dung"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Mạc_Kính_Vũ",
+                "person_label": "Mạc Kính Vũ"
+            }
+        ]
+    },
+    {
+        "dynasty_uri": "http://dbpedia.org/resource/Lê_dynasty",
+        "dynasty_label": "Lê dynasty",
+        "famous_people": [
+            {
+                "person_uri": "http://dbpedia.org/resource/Qianlong_Emperor",
+                "person_label": "Qianlong Emperor"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Chiêu_Tông",
+                "person_label": "Lê Chiêu Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Chân_Tông",
+                "person_label": "Lê Chân Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Cung_Hoàng",
+                "person_label": "Lê Cung Hoàng"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Duy_Cận",
+                "person_label": "Lê Duy Cận"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Duy_Mật",
+                "person_label": "Lê Duy Mật"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Duy_Phường",
+                "person_label": "Lê Duy Phường"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Gia_Tông",
+                "person_label": "Lê Gia Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Hiến_Tông",
+                "person_label": "Lê Hiến Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Hiển_Tông",
+                "person_label": "Lê Hiển Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Huyền_Tông",
+                "person_label": "Lê Huyền Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Hy_Tông",
+                "person_label": "Lê Hy Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Kính_Tông",
+                "person_label": "Lê Kính Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Thuần_Tông",
+                "person_label": "Lê Thuần Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Thái_Tông",
+                "person_label": "Lê Thái Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Thần_Tông",
+                "person_label": "Lê Thần Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Thế_Tông",
+                "person_label": "Lê Thế Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Túc_Tông",
+                "person_label": "Lê Túc Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Tương_Dực",
+                "person_label": "Lê Tương Dực"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Uy_Mục",
+                "person_label": "Lê Uy Mục"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Ý_Tông",
+                "person_label": "Lê Ý Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_dynasty",
+                "person_label": "Lý dynasty"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trịnh_Căn",
+                "person_label": "Trịnh Căn"
+            }
+        ]
+    },
+    {
+        "dynasty_uri": "http://dbpedia.org/resource/Trần_dynasty",
+        "dynasty_label": "Trần dynasty",
+        "famous_people": [
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Chiêu_Hoàng",
+                "person_label": "Lý Chiêu Hoàng"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Anh_Tông",
+                "person_label": "Trần Anh Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Thái_Tông",
+                "person_label": "Trần Thái Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Dụ_Tông",
+                "person_label": "Trần Dụ Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Hồ_Quý_Ly",
+                "person_label": "Hồ Quý Ly"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Sati_(practice)",
+                "person_label": "Sati (practice)"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Mạc_Đĩnh_Chi",
+                "person_label": "Mạc Đĩnh Chi"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Văn_Hưu",
+                "person_label": "Lê Văn Hưu"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Cao_Tông",
+                "person_label": "Lý Cao Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Tế_Xuyên",
+                "person_label": "Lý Tế Xuyên"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_dynasty",
+                "person_label": "Lý dynasty"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lĩnh_Nam_chích_quái",
+                "person_label": "Lĩnh Nam chích quái"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Duke_Hu_of_Chen",
+                "person_label": "Duke Hu of Chen"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Dương_Nhật_Lễ",
+                "person_label": "Dương Nhật Lễ"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Nghệ_Tông",
+                "person_label": "Trần Nghệ Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/An_Tư",
+                "person_label": "An Tư"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Khánh_Dư",
+                "person_label": "Trần Khánh Dư"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Chế_Mân",
+                "person_label": "Chế Mân"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Crown_prince",
+                "person_label": "Crown prince"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Thị_Dung",
+                "person_label": "Trần Thị Dung"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Armillary_sphere",
+                "person_label": "Armillary sphere"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Chiêu_Hoàng",
+                "person_label": "Lý Chiêu Hoàng"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lý_Huệ_Tông",
+                "person_label": "Lý Huệ Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Mandarin_(bureaucrat)",
+                "person_label": "Mandarin (bureaucrat)"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Minh_Tông",
+                "person_label": "Trần Minh Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Toghon_(son_of_Kublai)",
+                "person_label": "Toghon (son of Kublai)"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Anh_Tông",
+                "person_label": "Trần Anh Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Nhân_Tông",
+                "person_label": "Trần Nhân Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Phế_Đế",
+                "person_label": "Trần Phế Đế"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Quang_Khải",
+                "person_label": "Trần Quang Khải"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Quốc_Khang",
+                "person_label": "Trần Quốc Khang"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Quốc_Toản",
+                "person_label": "Trần Quốc Toản"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Thuận_Tông",
+                "person_label": "Trần Thuận Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Thái_Tông",
+                "person_label": "Trần Thái Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Thánh_Tông",
+                "person_label": "Trần Thánh Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Thủ_Độ",
+                "person_label": "Trần Thủ Độ"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Tự_Khánh",
+                "person_label": "Trần Tự Khánh"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Liễu",
+                "person_label": "Trần Liễu"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Chu_Văn_An",
+                "person_label": "Chu Văn An"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Chế_Chí",
+                "person_label": "Chế Chí"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Duệ_Tông",
+                "person_label": "Trần Duệ Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trần_Dụ_Tông",
+                "person_label": "Trần Dụ Tông"
+            }
+        ]
+    },
+    {
+        "dynasty_uri": "http://dbpedia.org/resource/An_Dương_Vương",
+        "dynasty_label": "An Dương Vương",
+        "famous_people": [
+            {
+                "person_uri": "http://dbpedia.org/resource/Empress_Lü",
+                "person_label": "Empress Lü"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Zhao_Tuo",
+                "person_label": "Zhao Tuo"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trọng_Thủy",
+                "person_label": "Trọng Thủy"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Tây_Vu_Vương",
+                "person_label": "Tây Vu Vương"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/King_Huiwen_of_Qin",
+                "person_label": "King Huiwen of Qin"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Hùng_Duệ_Vương",
+                "person_label": "Hùng Duệ Vương"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Cao_Lỗ",
+                "person_label": "Cao Lỗ"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Hùng_king",
+                "person_label": "Hùng king"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Âu_Việt",
+                "person_label": "Âu Việt"
+            }
+        ]
+    },
+    {
+        "dynasty_uri": "http://dbpedia.org/resource/Khúc_clan",
+        "dynasty_label": "Khúc clan",
+        "famous_people": [
+            {
+                "person_uri": "http://dbpedia.org/resource/Dương_Đình_Nghệ",
+                "person_label": "Dương Đình Nghệ"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Đinh_Bộ_Lĩnh",
+                "person_label": "Đinh Bộ Lĩnh"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Five_Dynasties_and_Ten_Kingdoms_period",
+                "person_label": "Five Dynasties and Ten Kingdoms period"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Khúc_Thừa_Mỹ",
+                "person_label": "Khúc Thừa Mỹ"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Jiedushi",
+                "person_label": "Jiedushi"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Khúc_Hạo",
+                "person_label": "Khúc Hạo"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Khúc_Thừa_Dụ",
+                "person_label": "Khúc Thừa Dụ"
+            }
+        ]
+    },
+    {
+        "dynasty_uri": "http://dbpedia.org/resource/Later_Trần_dynasty",
+        "dynasty_label": "Later Trần dynasty",
+        "famous_people": [
+            {
+                "person_uri": "http://dbpedia.org/resource/Mu_Sheng",
+                "person_label": "Mu Sheng"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Giản_Định_Đế",
+                "person_label": "Giản Định Đế"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trùng_Quang_Đế",
+                "person_label": "Trùng Quang Đế"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Giản_Định_Đế",
+                "person_label": "Giản Định Đế"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trùng_Quang_Đế",
+                "person_label": "Trùng Quang Đế"
+            }
+        ]
+    },
+    {
+        "dynasty_uri": "http://dbpedia.org/resource/Thục_Dynasty",
+        "dynasty_label": "Thục Dynasty",
+        "famous_people": [
+            {
+                "person_uri": "http://dbpedia.org/resource/An_Dương_Vương",
+                "person_label": "An Dương Vương"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/An_Dương_Vương",
+                "person_label": "An Dương Vương"
+            }
+        ]
+    },
+    {
+        "dynasty_uri": "http://dbpedia.org/resource/Nguyễn_dynasty",
+        "dynasty_label": "Nguyễn dynasty",
+        "famous_people": []
+    },
+    {
+        "dynasty_uri": "http://dbpedia.org/resource/Ngô_dynasty",
+        "dynasty_label": "Ngô dynasty",
+        "famous_people": [
+            {
+                "person_uri": "http://dbpedia.org/resource/Huang_Chao",
+                "person_label": "Huang Chao"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Dương_Tam_Kha",
+                "person_label": "Dương Tam Kha"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Dương_Đình_Nghệ",
+                "person_label": "Dương Đình Nghệ"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Liu_Yan_(emperor)",
+                "person_label": "Liu Yan (emperor)"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Zhu_Wen",
+                "person_label": "Zhu Wen"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Đinh_Bộ_Lĩnh",
+                "person_label": "Đinh Bộ Lĩnh"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Five_Dynasties_and_Ten_Kingdoms_period",
+                "person_label": "Five Dynasties and Ten Kingdoms period"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Khúc_Thừa_Mỹ",
+                "person_label": "Khúc Thừa Mỹ"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Khúc_clan",
+                "person_label": "Khúc clan"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Regent",
+                "person_label": "Regent"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Jiedushi",
+                "person_label": "Jiedushi"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Song_dynasty",
+                "person_label": "Song dynasty"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Kiều_Công_Tiễn",
+                "person_label": "Kiều Công Tiễn"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Ngô_Quyền",
+                "person_label": "Ngô Quyền"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Ngô_Xương_Ngập",
+                "person_label": "Ngô Xương Ngập"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Ngô_Xương_Văn",
+                "person_label": "Ngô Xương Văn"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Vassal",
+                "person_label": "Vassal"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Paramesvaravarman_I_(Champa)",
+                "person_label": "Paramesvaravarman I (Champa)"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Ngô_Quyền",
+                "person_label": "Ngô Quyền"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Dương_Tam_Kha",
+                "person_label": "Dương Tam Kha"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Ngô_Quyền",
+                "person_label": "Ngô Quyền"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Ngô_Xương_Ngập",
+                "person_label": "Ngô Xương Ngập"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Ngô_Xương_Văn",
+                "person_label": "Ngô Xương Văn"
+            }
+        ]
+    },
+    {
+        "dynasty_uri": "http://dbpedia.org/resource/Revival_Lê_dynasty",
+        "dynasty_label": "Revival Lê dynasty",
+        "famous_people": [
+            {
+                "person_uri": "http://dbpedia.org/resource/Qianlong_Emperor",
+                "person_label": "Qianlong Emperor"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Chiêu_Tông",
+                "person_label": "Lê Chiêu Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Chân_Tông",
+                "person_label": "Lê Chân Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Cung_Hoàng",
+                "person_label": "Lê Cung Hoàng"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Duy_Phường",
+                "person_label": "Lê Duy Phường"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Gia_Tông",
+                "person_label": "Lê Gia Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Hiển_Tông",
+                "person_label": "Lê Hiển Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Huyền_Tông",
+                "person_label": "Lê Huyền Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Hy_Tông",
+                "person_label": "Lê Hy Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Kính_Tông",
+                "person_label": "Lê Kính Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Thuần_Tông",
+                "person_label": "Lê Thuần Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Thần_Tông",
+                "person_label": "Lê Thần Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Thế_Tông",
+                "person_label": "Lê Thế Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Ý_Tông",
+                "person_label": "Lê Ý Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trịnh_Tùng",
+                "person_label": "Trịnh Tùng"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trịnh_Tạc",
+                "person_label": "Trịnh Tạc"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Alexandre_de_Rhodes",
+                "person_label": "Alexandre de Rhodes"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Mạc_Đăng_Dung",
+                "person_label": "Mạc Đăng Dung"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trịnh_Kiểm",
+                "person_label": "Trịnh Kiểm"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Chiêu_Thống",
+                "person_label": "Lê Chiêu Thống"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Trang_Tông",
+                "person_label": "Lê Trang Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Anh_Tông",
+                "person_label": "Lê Anh Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trịnh_Cương",
+                "person_label": "Trịnh Cương"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trịnh_Sâm",
+                "person_label": "Trịnh Sâm"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trịnh_Tráng",
+                "person_label": "Trịnh Tráng"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Dụ_Tông",
+                "person_label": "Lê Dụ Tông"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Nguyễn_Hoàng",
+                "person_label": "Nguyễn Hoàng"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Nguyễn_Huệ",
+                "person_label": "Nguyễn Huệ"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Nguyễn_Kim",
+                "person_label": "Nguyễn Kim"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Nguyễn_Phúc_Nguyên",
+                "person_label": "Nguyễn Phúc Nguyên"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Lê_Trung_Tông_(Later_Lê)",
+                "person_label": "Lê Trung Tông (Later Lê)"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Trịnh_Giang",
+                "person_label": "Trịnh Giang"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Nguyễn_Huệ",
+                "person_label": "Nguyễn Huệ"
+            },
+            {
+                "person_uri": "http://dbpedia.org/resource/Nguyễn_Kim",
+                "person_label": "Nguyễn Kim"
+            }
+        ]
+    }
+]
