@@ -149,6 +149,7 @@ Related Historical Figures: Nhân vật sinh ra hoặc hoạt động trong đơ
 Provenance: Nguồn gốc dữ liệu (prov:wasDerivedFrom).
 
 Description: Mô tả ngắn về đơn vị hành chính, bao gồm lịch sử và đặc điểm.
+===========================================================================================================
 6. Dynasties
 Dữ liệu về các triều đại lịch sử, là thể hiện của lớp CIDOC-CRM:E4_Period.
 
@@ -185,3 +186,84 @@ Tích hợp ontology chuẩn: Các trường được thiết kế để tương
 
 SPARQL Queries: Để trích xuất, có thể sử dụng SPARQL với Property Path để truy vấn các mối quan hệ phức tạp (ví dụ: ?figure :participatesInEvent ?event).
 Danh sách này có thể được điều chỉnh thêm nếu bạn có yêu cầu cụ thể về định dạng dữ liệu hoặc các trường bổ sung.
+{
+    Query SPAQRL cho dynasty:
+    PREFIX dbr: <http://dbpedia.org/resource/>
+    PREFIX dbo: <http://dbpedia.org/ontology/>
+    PREFIX dbp: <http://dbpedia.org/property/>
+    PREFIX dct: <http://purl.org/dc/terms/>
+    PREFIX dbc: <http://dbpedia.org/resource/Category:>
+    PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+    PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+    PREFIX prov: <http://www.w3.org/ns/prov#>
+
+    SELECT DISTINCT ?dynasty ?name ?startDate ?endDate ?historicalFigure ?historicalSite ?historicalEvent ?festival ?adminDivision ?provenance ?description
+    WHERE {
+    # Lấy các triều đại thuộc danh mục Vietnamese_dynasties
+    ?dynasty dct:subject dbc:Vietnamese_dynasties .
+    
+    # Lọc các triều đại có dbp:governmentType chứa "Monarchy"
+    ?dynasty dbp:governmentType ?govType .
+    FILTER (CONTAINS(LCASE(STR(?govType)), "monarchy"))
+    
+    # Name: Tên triều đại
+    ?dynasty rdfs:label ?name .
+    FILTER (lang(?name) = "en" || lang(?name) = "vi")
+    
+    # Start Date: Năm bắt đầu
+    OPTIONAL {
+        ?dynasty dbp:startDate | dbp:established | dbo:foundingYear | dbp:formation ?startDate .
+    }
+    
+    # End Date: Năm kết thúc
+    OPTIONAL {
+        ?dynasty dbp:endDate | dbp:abolished | dbo:dissolutionYear | dbp:dissolution ?endDate .
+    }
+    
+    # Related Historical Figures: Nhân vật lịch sử
+    OPTIONAL {
+        ?dynasty dbp:leader | dbp:monarch | dbo:leader | dbo:founder ?historicalFigure .
+        ?historicalFigure rdf:type foaf:Person .
+    }
+    
+    # Related Historical Sites: Di tích lịch sử
+    OPTIONAL {
+        ?historicalSite dbp:dynasty | dbo:era | dbp:country | dbo:location ?dynasty .
+        ?historicalSite rdf:type dbo:Place .
+    }
+    
+    # Related Historical Events: Sự kiện lịch sử
+    OPTIONAL {
+        ?historicalEvent dbp:dynasty | dbo:era | dbp:country ?dynasty .
+        ?historicalEvent rdf:type dbo:Event .
+    }
+    
+    # Related Festivals: Lễ hội
+    OPTIONAL {
+        ?festival dbp:dynasty | dbo:era | dbp:country ?dynasty .
+        ?festival rdf:type dbo:Festival .
+    }
+    
+    # Related Administrative Divisions: Đơn vị hành chính
+    OPTIONAL {
+        ?adminDivision dbp:dynasty | dbo:country | dbp:era | dbo:location ?dynasty .
+        ?adminDivision rdf:type dbo:AdministrativeRegion .
+    }
+    
+    # Provenance: Nguồn gốc dữ liệu
+    OPTIONAL {
+        ?dynasty prov:wasDerivedFrom ?provenance .
+    }
+    
+    # Description: Mô tả ngắn
+    OPTIONAL {
+        ?dynasty dbo:abstract ?description .
+        FILTER (lang(?description) = "en" || lang(?description) = "vi")
+    }
+    }
+    LIMIT 100
+}
+
+list triều đại: https://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=PREFIX+dct%3A+%3Chttp%3A%2F%2Fpurl.org%2Fdc%2Fterms%2F%3E%0D%0APREFIX+dbc%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FCategory%3A%3E%0D%0APREFIX+dbp%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fproperty%2F%3E%0D%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0D%0A%0D%0ASELECT+DISTINCT+%3Fdynasty+%3Fname%0D%0AWHERE+%7B%0D%0A++%23+L%E1%BA%A5y+c%C3%A1c+tri%E1%BB%81u+%C4%91%E1%BA%A1i+thu%E1%BB%99c+danh+m%E1%BB%A5c+Vietnamese_dynasties%0D%0A++%3Fdynasty+dct%3Asubject+dbc%3AVietnamese_dynasties+.%0D%0A++%0D%0A++%23+Duy%E1%BB%87t+c%C3%A1c+thu%E1%BB%99c+t%C3%ADnh+c%C3%B3+gi%C3%A1+tr%E1%BB%8B+ch%E1%BB%A9a+%22monarchy%22%0D%0A++%3Fdynasty+%3Fproperty+%3FgovType+.%0D%0A++FILTER+%28%0D%0A++++%3Fproperty+IN+%28dbp%3AgovernmentType%2C+dbp%3Agovernment%29+%26%26%0D%0A++++CONTAINS%28LCASE%28STR%28%3FgovType%29%29%2C+%22monarchy%22%29%0D%0A++%29%0D%0A++%0D%0A++%23+L%E1%BA%A5y+t%C3%AAn+tri%E1%BB%81u+%C4%91%E1%BA%A1i%0D%0A++%3Fdynasty+rdfs%3Alabel+%3Fname+.%0D%0A++FILTER+%28lang%28%3Fname%29+%3D+%22en%22+%7C%7C+lang%28%3Fname%29+%3D+%22vi%22%29%0D%0A%7D%0D%0AORDER+BY+%3Fname%0D%0ALIMIT+50&format=text%2Fhtml&timeout=30000&signal_void=on&signal_unconnected=on
+
+-> kết quả triều đại stored ở file DbPediaResult/dynasty_uri.json -> duyệt file này để query các field cân thiết cho dynasty
