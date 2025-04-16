@@ -1,0 +1,620 @@
+{
+    "head": {
+      "link": [],
+      "vars": [
+        "person",
+        "_son",
+        "_birthPlace",
+        "_deathPlaces",
+        "_fathers",
+        "_fullNames",
+        "_mothers",
+        "_religions",
+        "_positionTitles",
+        "_buriedPlace",
+        "deathCategories",
+        "_deathDates",
+        "_liveIn"
+      ]
+    },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hậu_Lý_Nam_Đế"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lý_Nam_Đế"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lý Phật Tử"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Chang'an"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:606_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "602, http://dbpedia.org/resource/Sui_dynasty, http://dbpedia.org/resource/Xi'an"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Early_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lý_Nam_Đế"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Phổ Yên, Thái Nguyên, Liang China"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Tam Nông, Phú Thọ, Vạn Xuân"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Lý Cạnh"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lý Bôn"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Lê Thị Oánh"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:548_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "0548-04-13"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Early_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Emperor_Wu_of_Chen"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Chen_Chang"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Chen Wenzan"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Childhood name: Fasheng, Courtesy name: Xingguo, Family name: Chen, Given name: Baxian"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Lady Dong"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:559_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "0559-08-09"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Early_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Chen_dynasty"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Last"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Early_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Emperor_Wen_of_Sui"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor_Yang_of_Sui, http://dbpedia.org/resource/Yang_Jun_(prince), http://dbpedia.org/resource/Yang_Liang, http://dbpedia.org/resource/Yang_Lihua, http://dbpedia.org/resource/Yang_Xiu_(Sui_dynasty), http://dbpedia.org/resource/Yang_Yong_(Sui_dynasty), http://dbpedia.org/resource/Yang_Zhong"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Chang'an, http://dbpedia.org/resource/Western_Wei"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Renshou Palace, Baoji, Sui China"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Yang_Zhong"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Family name: Yang, Given name: Jian"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Empress Yuanming"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Founder"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:604_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "0604-08-13"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Early_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Triệu_Việt_Vương"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Zhu Jian, Jiaozhou, Liang China"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Triệu Tục"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Triệu Quang Phục"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Nguyễn Thị Hựu"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Leader"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:571_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "571"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Early_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Liu_Fang"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/China, http://dbpedia.org/resource/Kunming, http://dbpedia.org/resource/Yunnan"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Early_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lý_Thiên_Bảo"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:555_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Early_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Monarch"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Early_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Võ_Nguyên_Giáp"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Lệ Thủy, Quảng Bình,"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Hanoi, Vietnam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/General"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:2013_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "2013-10-04"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Early_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lý_dynasty"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Dynasty"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Early_L?_dynasty"
+          }
+        }
+      ]
+    }
+  }

@@ -1,0 +1,295 @@
+{
+    "head": {
+      "link": [],
+      "vars": [
+        "dynasty",
+        "_founderOfDynasty",
+        "_formedIn",
+        "_start",
+        "_end",
+        "_span"
+      ]
+    },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "dynasty": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lý_dynasty"
+          },
+          "_founderOfDynasty": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lý_Công_Uẩn"
+          },
+          "_formedIn": {
+            "type": "literal",
+            "xml:lang": "en",
+            "value": "Coronation of Lý Công Uẩn"
+          },
+          "_start": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1009"
+          },
+          "_end": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1225"
+          },
+          "_span": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "216"
+          }
+        },
+        {
+          "dynasty": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Đinh_dynasty"
+          },
+          "_founderOfDynasty": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Đinh_Bộ_Lĩnh"
+          },
+          "_formedIn": {
+            "type": "literal",
+            "xml:lang": "en",
+            "value": "Unification of Vietnam"
+          },
+          "_start": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "968"
+          },
+          "_end": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "980"
+          },
+          "_span": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "12"
+          }
+        },
+        {
+          "dynasty": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trần_dynasty"
+          },
+          "_founderOfDynasty": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trần_Nhật_Cảnh"
+          },
+          "_formedIn": {
+            "type": "literal",
+            "xml:lang": "en",
+            "value": "Coronation of Trần Cảnh"
+          },
+          "_start": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1225"
+          },
+          "_end": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1400"
+          },
+          "_span": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "175"
+          }
+        },
+        {
+          "dynasty": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ngô_dynasty"
+          },
+          "_founderOfDynasty": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ngô_Quyền"
+          },
+          "_formedIn": {
+            "type": "literal",
+            "xml:lang": "en",
+            "value": "Ngô Quyền founded the dynasty"
+          },
+          "_start": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "939"
+          },
+          "_end": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "968"
+          },
+          "_span": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "29"
+          }
+        },
+        {
+          "dynasty": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Early_Lý_dynasty"
+          },
+          "_formedIn": {
+            "type": "literal",
+            "xml:lang": "en",
+            "value": "Lý Bí proclaimed himself Emperor"
+          },
+          "_start": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "544"
+          },
+          "_end": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "602"
+          },
+          "_span": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "58"
+          }
+        },
+        {
+          "dynasty": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Mạc_dynasty"
+          },
+          "_formedIn": {
+            "type": "literal",
+            "xml:lang": "en",
+            "value": "Mạc Đăng Dung's enthronment"
+          },
+          "_start": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1527"
+          },
+          "_end": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1627"
+          },
+          "_span": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "100"
+          }
+        },
+        {
+          "dynasty": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_dynasty"
+          },
+          "_formedIn": {
+            "type": "literal",
+            "xml:lang": "en",
+            "value": "Coronation of Lê Lợi"
+          },
+          "_start": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1427"
+          },
+          "_end": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1789"
+          },
+          "_span": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "362"
+          }
+        },
+        {
+          "dynasty": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_dynasty"
+          },
+          "_formedIn": {
+            "type": "literal",
+            "xml:lang": "en",
+            "value": ""
+          },
+          "_start": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1802"
+          },
+          "_end": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1945"
+          },
+          "_span": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "143"
+          }
+        },
+        {
+          "dynasty": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_dynasty"
+          },
+          "_formedIn": {
+            "type": "literal",
+            "xml:lang": "en",
+            "value": "Coronation of Gia Long"
+          },
+          "_start": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1802"
+          },
+          "_end": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1945"
+          },
+          "_span": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "143"
+          }
+        },
+        {
+          "dynasty": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Revival_Lê_dynasty"
+          },
+          "_formedIn": {
+            "type": "literal",
+            "xml:lang": "en",
+            "value": "Inauguration of Lê Trang Tông"
+          },
+          "_start": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1533"
+          },
+          "_end": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "1789"
+          },
+          "_span": {
+            "type": "typed-literal",
+            "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+            "value": "256"
+          }
+        }
+      ]
+    }
+  }

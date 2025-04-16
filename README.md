@@ -1,5 +1,6 @@
 Fields for Data Extraction from Semantic Repositories for CHeVIE Ontology
 Dựa trên ontology CHeVIE và yêu cầu trích xuất dữ liệu từ các kho ngữ nghĩa như DBPedia, dưới đây là danh sách các trường dữ liệu cần trích xuất cho từng chủ đề chính: Historical Figures, Historical Sites, Historical Events, Cultural Festivals, Administrative Divisions, và Dynasties.
+
 1. Historical Figures
 Dữ liệu liên quan đến các nhân vật lịch sử, kế thừa từ lớp Person của CIDOC-CRM và các thuộc tính đặc thù của CHeVIE.
 
@@ -35,6 +36,7 @@ Related Festivals: Lễ hội tưởng niệm nhân vật (festivalCommemorateHi
 Provenance: Nguồn gốc dữ liệu (prov:wasDerivedFrom), ví dụ: URL DBPedia hoặc tài liệu tham khảo.
 
 Description: Mô tả ngắn về nhân vật (nếu có trong DBPedia).
+
 2. Historical Sites
 Dữ liệu về các di tích lịch sử, thuộc lớp Site với các phân loại cụ thể theo Luật Di sản Văn hóa Việt Nam.
 
@@ -66,6 +68,7 @@ Geographical Coordinates: Tọa độ địa lý (dùng geo:lat, geo:long từ G
 Provenance: Nguồn gốc dữ liệu (prov:wasDerivedFrom).
 
 Description: Mô tả ngắn về di tích, bao gồm giá trị lịch sử/văn hóa.
+
 3. Historical Events
 Dữ liệu về các sự kiện lịch sử, thuộc lớp HistoricalEvent với các phân loại theo nội dung.
 
@@ -91,6 +94,7 @@ Significance: Mức độ quan trọng (BasicEvent, NonBasicEvent).
 Provenance: Nguồn gốc dữ liệu (prov:wasDerivedFrom).
 
 Description: Mô tả ngắn về sự kiện, bao gồm bối cảnh và kết quả.
+
 4. Cultural Festivals
 Dữ liệu về các lễ hội văn hóa, thuộc lớp Festival với các phân loại theo Bộ Văn hóa, Thể thao và Du lịch.
 
@@ -122,6 +126,7 @@ Related Historical Events: Sự kiện liên quan (nếu có, ví dụ: "Lễ k�
 Provenance: Nguồn gốc dữ liệu (prov:wasDerivedFrom).
 
 Description: Mô tả ngắn về lễ hội, bao gồm ý nghĩa văn hóa.
+
 5. Administrative Divisions
 Dữ liệu về các đơn vị hành chính, kế thừa từ Juso:AdministrativeDivision.
 

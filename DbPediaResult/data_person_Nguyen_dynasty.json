@@ -1,0 +1,6020 @@
+{
+    "head": {
+      "link": [],
+      "vars": [
+        "person",
+        "_son",
+        "_birthPlace",
+        "_deathPlaces",
+        "_fathers",
+        "_fullNames",
+        "_mothers",
+        "_religions",
+        "_positionTitles",
+        "_buriedPlace",
+        "deathCategories",
+        "_deathDates",
+        "_liveIn"
+      ]
+    },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Nhân_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Thái_Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Bang Cơ"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Thị_Anh"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Mục Lăng, Lam Kinh, Thanh Hóa"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1459_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "--10-25"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Zhao_Tuo"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/China, http://dbpedia.org/resource/Shijiazhuang, http://dbpedia.org/resource/Zhengding_County"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nanyue"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Founder"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Guangzhou"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:137_BC_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "137"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Trang_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Vạn Lại Palace, Xuân Châu commune, Thọ Xuân district, Thiệu Thiên prefecture, Thanh Hoa town, Đại Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Chiêu_Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Ninh"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Phạm_Thị_Ngọc_Quỳnh"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Cảnh Tomb"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1548_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1548-03-09"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Chu"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Trú"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đàng_Trong"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đàng_Trong"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Thái"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Chu"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Tống Thị Lĩnh"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Warlord"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1725_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1725-06-02"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Philippe_Vannier"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Auray, http://dbpedia.org/resource/Kingdom_of_France"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/July_Monarchy, http://dbpedia.org/resource/Lorient"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Officer"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1842_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1842"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Trường_Tộ"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Scholar"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1871_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bảo_Thắng"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Son"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Son_of_Heaven"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Title"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Anh_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Thế_Tông"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Lê Duy Khoáng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Bang"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Bố Vệ lăng or Thổ Lăng"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1573_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1573-01-22"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Thái_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Nghi_Dân, http://dbpedia.org/resource/Lê_Nhân_Tông, http://dbpedia.org/resource/Lê_Thánh_Tông"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Lam Sơn, Jiaozhi Province, Ming China"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Lệ Chi Viên, Gia Định county"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Lê Thái Tổ"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Nguyên Long"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Phạm Thị Ngọc Trần"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1442_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1442-08-08"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Mạc_Đăng_Dung"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Mạc Hịch"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Mạc Đăng Dung"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Đặng Thị Hiếu"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1541_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1541-08-22"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trịnh_Giang"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Bồng"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Đông Kinh, North Vietnam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Đông Kinh, North Vietnam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Cương"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Trịnh Giang"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Vũ Thị Ngọc Nguyên"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1762_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1762-12-30"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Miên_Thẩm"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Emperor Minh Mạng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Nguyễn Thị Bửu"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1870_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1870-04-30"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thomas_Conway"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Ireland"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Soldier"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1800_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Văn_Tường"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Mandarin"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1886_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Mandarin_(bureaucrat)"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Scholar"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Xu_Jiyu"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1873_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bhikkhu"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thiệu_Trị"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Hồng_Bảo, http://dbpedia.org/resource/Nguyễn_Phúc_Hồng_Cai, http://dbpedia.org/resource/Nguyễn_Phúc_Hồng_Y, http://dbpedia.org/resource/Tự_Đức"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Imperial_City,_Huế, http://dbpedia.org/resource/Việt_Nam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Imperial_City,_Huế, http://dbpedia.org/resource/Đại_Nam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Minh_Mạng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Miên Tông, Nguyễn Phúc Tuyền"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Empress Tá Thiên"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism, http://dbpedia.org/resource/Ruism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Tomb_of_Thiệu_Trị"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1847_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1847-10-04"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dục_Đức"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Thành_Thái"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Imperial_City,_Huế, http://dbpedia.org/resource/Đại_Nam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Imperial_City,_Huế, http://dbpedia.org/resource/Đại_Nam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Hồng Y"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Ưng Ái"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Trần Thị Nga"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism, http://dbpedia.org/resource/Ruism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Tomb_of_Dục_Đức"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1883_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1883-10-06"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Khải_Định"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Bảo_Đại"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Annam_(French_protectorate), http://dbpedia.org/resource/Imperial_City_of_Huế"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Imperial City of Huế, French Indochina"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đồng_Khánh"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Bửu Đảo, Nguyễn Phúc Tuấn"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Empress Hựu Thiên"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism, http://dbpedia.org/resource/Ruism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Tomb_of_Khải_Định"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1925_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1925-11-06"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Đinh_Bộ_Lĩnh"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đinh_Hạng_Lang, http://dbpedia.org/resource/Đinh_Liễn"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Gia_Viễn, http://dbpedia.org/resource/Jiaozhou_(region), http://dbpedia.org/resource/Ninh_Bình_province"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Hoa Lư, Ninh Bình province, Đại Cồ Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đinh_Công_Trứ"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Đinh Bộ Lĩnh, Đinh Hoàn"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Trường Yên tomb, Hoa Lư"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:979_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "October 979"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Thành_Thái"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Duy_Tân"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Imperial_City,_Huế, http://dbpedia.org/resource/Đại_Nam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Saigon, http://dbpedia.org/resource/State_of_Vietnam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Dục_Đức"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Bửu Lân, Nguyễn Phúc Chiêu"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Empress Dowager Từ Minh"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism, http://dbpedia.org/resource/Ruism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Tomb_of_Dục_Đức"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1969_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1954-03-20"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Nguyên"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Lan, http://dbpedia.org/resource/Nguyễn_Phúc_Ngọc_Vạn"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đàng_Trong"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Hoàng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Nguyên"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Nguyễn Thị"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Warlord"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1635_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1635-11-19"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bảo_Đại"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Bảo_Hoàng, http://dbpedia.org/resource/Bảo_Long, http://dbpedia.org/resource/Bảo_Sơn_(1957–1987), http://dbpedia.org/resource/Bảo_Thăng, http://dbpedia.org/resource/Bảo_Ân, http://dbpedia.org/resource/Patrick-Édouard_Bloch-Carcenac, http://dbpedia.org/resource/Phương_Liên, http://dbpedia.org/resource/Phương_Mai, http://dbpedia.org/resource/Phương_Minh, http://dbpedia.org/resource/Phương_Thảo, http://dbpedia.org/resource/Phương_Từ"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Doan-Trang-Vien_Palace, http://dbpedia.org/resource/French_Indochina, http://dbpedia.org/resource/Imperial_City_of_Huế"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/France, http://dbpedia.org/resource/Paris, http://dbpedia.org/resource/Val-de-Grâce"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Khải_Định"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hoàng_Thị_Cúc"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Catholic_Church, http://dbpedia.org/resource/Confucianism, http://dbpedia.org/resource/Mahayana_Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Dai"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1997_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1997-07-31"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Cung_Hoàng"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Sùng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Xuân"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Thị_Loan"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1527_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1527-06-15"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bảo_Long"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Kien-Trung Palace, Huế, French Indochina"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/France, http://dbpedia.org/resource/Sens"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Bảo_Đại"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nam_Phương"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Long"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:2007_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "2007-07-28"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Anouvong"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lan_Xang, http://dbpedia.org/resource/Vientiane"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Bangkok, http://dbpedia.org/resource/Siam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Ong_Boun"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Somdet Paramanadha Parama Bupati Somdet Brhat Pen Chao Singhadhamuraja, Somdet Brhat Parama Bupati Brhat Maha Kashatriya Khatiya Adipati Jayasethha Jatikasuriya Varman, Angga Penh Brhat Yulumanaya Maha Negara Chandrapuri Sri Sadhana Kanayudha Visudhirattana Rajadhanapuri Rama Lan Chang Krum Klao"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Phranang_Kamphong"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1829_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1828-11-12"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Hồng_Bảo"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Emperor Thiệu Trị"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Đinh Thị Hạnh"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1854_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "January 1854"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Văn_Duyệt"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Trà Lọt, Hòa Khánh, Định Tường, Chiêm Thành"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Gia Định, Vietnam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1832_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1832-07-30"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Chiêu_Thống"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Beijing, http://dbpedia.org/resource/Qing_dynasty"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Duy_Vĩ"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Khiêm, Lê Duy Kỳ"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Empress_Dowager_Mẫn"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Bàn Thạch village, Thanh Hoa, Việt Nam"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1793_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Song_dynasty"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Chinese_Buddhism, http://dbpedia.org/resource/Chinese_folk_religion, http://dbpedia.org/resource/Church_of_the_East_in_China, http://dbpedia.org/resource/Confucianism, http://dbpedia.org/resource/Islam_in_China, http://dbpedia.org/resource/Taoism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Era"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Tôn_Thất_Thuyết"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Mandarin"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1913_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Luân"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Son"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1765_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Posthumous_name"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Name"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Huệ"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Đồng_Khánh"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Khải_Định"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Imperial_City,_Huế, http://dbpedia.org/resource/Đại_Nam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Annam_(French_protectorate), http://dbpedia.org/resource/French_Indochina, http://dbpedia.org/resource/Imperial_City,_Huế"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Hồng Cai"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Biện, Nguyễn Phúc Ưng Kỷ, Nguyễn Phúc Ưng Thị, Nguyễn Phúc Ưng Đường"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Concubine Bùi Thị Thanh"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism, http://dbpedia.org/resource/Ruism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Tomb_of_Đồng_Khánh"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1889_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1889-01-28"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trịnh_Bồng"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Laos"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Giang"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Trịnh Bồng"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Last"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1787_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1791-02-13"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trần_Trọng_Kim"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Annam_(French_protectorate), http://dbpedia.org/resource/Hà_Tĩnh_Province, http://dbpedia.org/resource/Nghi_Xuân"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/State_of_Vietnam, http://dbpedia.org/resource/Đà_Lạt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Scholar"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1953_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1953-12-02"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/John_Francis_Davis"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "London, England"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Henbury, United Kingdom"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Diplomat"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1890_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1890-11-13"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Văn_Thành"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Governor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1817_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1817"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Hoàng"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Nguyên"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Thanh_Hóa_Province"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đàng_Trong"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Kim"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Hoàng"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Nguyễn Thị Mai"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1613_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1613-07-20"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Thuần"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đàng_Trong"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Ho_Chi_Minh_City"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Khoát"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Thuần"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Ngọc Cầu"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1777_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1777-10-18"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Miên_Bửu"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Emperor Minh Mạng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Hồ Thị Tùy"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1854_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1854-03-08"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Henri_Rivière_(naval_officer)"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Officer"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1883_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Tự_Đức"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Dục_Đức, http://dbpedia.org/resource/Kiến_Phúc, http://dbpedia.org/resource/Đồng_Khánh"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Imperial_City,_Huế, http://dbpedia.org/resource/Đại_Nam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Imperial_City,_Huế, http://dbpedia.org/resource/Đại_Nam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Thiệu_Trị"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Hồng Nhậm, Nguyễn Phúc Thì"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Empress Từ Dụ"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism, http://dbpedia.org/resource/Ruism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Tomb_of_Tự_Đức"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1883_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1883-07-19"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Duy_Tân"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Bảo_Vàng, http://dbpedia.org/resource/Guy_Georges_Vĩnh_San"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/French_Indochina, http://dbpedia.org/resource/Imperial_City_of_Huế"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/French_Equatorial_Africa, http://dbpedia.org/resource/Lobaye, http://dbpedia.org/resource/Ubangi-Shari"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Thành_Thái"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Hoàng, Nguyễn Phúc Vĩnh San"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Concubine Nguyễn Thị Định"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Tomb_of_Dục_Đức"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1945_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1945-12-26"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Cảnh"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Mỹ_Thùy, http://dbpedia.org/resource/Nguyễn_Phúc_Mỹ_Đường"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Emperor Gia Long"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Cảnh"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Empress Thừa Thiên"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Son"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1801_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1801-03-20"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Kim"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Thanh_Hóa"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nghệ_An"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Statesman"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1545_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1545"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Cường_Để"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Tokyo, Japan"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1951_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1951-04-05"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Liu_Yongfu"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Qinzhou, Guangdong , China"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Guangdong, http://dbpedia.org/resource/Qinzhou, http://dbpedia.org/resource/Republic_of_China_(1912-1949)"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Soldier"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1917_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Leaders_of_South_Vietnam"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/List"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Vietnamese_nobility"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Minh_Mạng"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Sài_Gòn, http://dbpedia.org/resource/Việt_Nam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Imperial_City,_Huế"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Gia_Long"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Kiểu, Nguyễn Phúc Đảm"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Empress Thuận Thiên"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Confucianism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "--08-20"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1841_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1841-01-20"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trịnh_Khải"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đàng_ngoài"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đàng_ngoài"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Sâm"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Trịnh Khải, Trịnh Tông"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Dương Thị Ngọc Hoan"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lords"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1786_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1786-07-23"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Po_Phaok_The"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ", Băl Canar, Panduranga, Champa"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Huế, http://dbpedia.org/resource/Vietnam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Po_Saong_Nyung_Ceng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Văn Thừa, Po Phaok The"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1835_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1835"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Châu_Văn_Tiếp"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Phú_Yên_Province, http://dbpedia.org/resource/Vietnam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Vĩnh Long, Vietnam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Commander"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1784_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Văn_Khôi"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Son"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1834_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jean_Dupuis"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trader"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1912_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Gia_Long"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Minh_Mạng, http://dbpedia.org/resource/Nguyễn_Phúc_Cảnh"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Phú_Xuân, http://dbpedia.org/resource/Đàng_Trong, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Imperial City, Huế, Việt Nam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Luân"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Ánh"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Thị_Hoàn"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Confucianism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Tomb_of_Gia_Long"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1820_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1820-02-03"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hàm_Nghi"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Minh_Đức, http://dbpedia.org/resource/Nguyễn_Phúc_Như_Lý, http://dbpedia.org/resource/Nguyễn_Phúc_Như_Mai"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Imperial_City,_Huế, http://dbpedia.org/resource/Đại_Nam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Algiers, http://dbpedia.org/resource/French_Algeria"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Hồng Cai"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Minh, Nguyễn Phúc Ưng Lịch"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Concubine Phan Thị Nhàn"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism, http://dbpedia.org/resource/Ruism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Dordogne, http://dbpedia.org/resource/France, http://dbpedia.org/resource/Thonac"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1943_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1943-01-04"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Louis_XVI"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Louis_Joseph,_Dauphin_of_France, http://dbpedia.org/resource/Louis_XVII,_King_of_France, http://dbpedia.org/resource/Marie-Thérèse,_Duchess_of_Angoulême, http://dbpedia.org/resource/Princess_Sophie_Hélène_Béatrice_of_France"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Kingdom_of_France, http://dbpedia.org/resource/Palace_of_Versailles"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/French_First_Republic, http://dbpedia.org/resource/Paris, http://dbpedia.org/resource/Place_de_la_Révolution"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Louis,_Dauphin_of_France_(son_of_Louis_XV)"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Louis Auguste de France"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Princess_Maria_Josepha_of_Saxony_(1731–1767)"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Catholic_Church"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Basilica_of_St_Denis"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1793_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1793-01-21"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Từ_Dụ"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Tự_Đức"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Tân Hòa, Vietnam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Huế, http://dbpedia.org/resource/Vietnam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Phạm_Đăng_Hưng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Phạm Thị Hằng"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Lady Phạm"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Tomb_of_Thiệu_Trị"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1902_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1902-05-12"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ang_Chan_II"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Ang_Mey, http://dbpedia.org/resource/Ang_Snguon_(prince)"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Bangkok, http://dbpedia.org/resource/Rattanakosin_Kingdom_(1782–1932)"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Oudong, http://dbpedia.org/resource/Post-Angkor_Period"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Ang_Eng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Outey Reachea II"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Neak Moneang Ut"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Theravada_Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1835_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1835-01-07"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Khoát"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Dương, http://dbpedia.org/resource/Nguyễn_Phúc_Luân, http://dbpedia.org/resource/Nguyễn_Phúc_Thuần"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đàng_Trong"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Chú"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Khoát"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Trương Thị Thư"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lords"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1765_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1765-07-07"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Dương"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đàng_Trong"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Hiệu"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Dương"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "?"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lords"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1777_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1777-09-18"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Trú"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đàng_Trong"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Chu"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Trú"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Tống Thị Được"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lords"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1738_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1738-06-07"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rama_III"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Siam, http://dbpedia.org/resource/Thonburi_Palace"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Bangkok, http://dbpedia.org/resource/Grand_Palace, http://dbpedia.org/resource/Phra_Nakhon_District, http://dbpedia.org/resource/Siam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddha_Loetla_Nabhalai"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Sri_Sulalai"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Monarch"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1851_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1851-04-02"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ang_Eng"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Ang_Chan_II, http://dbpedia.org/resource/Ang_Duong, http://dbpedia.org/resource/Ang_Em_(prince), http://dbpedia.org/resource/Ang_Snguon_(prince)"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Oudong, http://dbpedia.org/resource/Post-Angkor_Period"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Outey_II"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Neareay Reachea III"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1796_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1796-05-05"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Bặc"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Đê"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Nguyễn Thước"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Bặc"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/General"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:979_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "0979-10-15, http://dbpedia.org/resource/Hoa_Lư"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jean-Baptiste_Chaigneau"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Kingdom_of_France, http://dbpedia.org/resource/Lorient"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Lorient, France"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Sailor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1832_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1832-01-31"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Olivier_de_Puymanel"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Carpentras, http://dbpedia.org/resource/Kingdom_of_France"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Malacca, http://dbpedia.org/resource/Malaysia"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Officer"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1799_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1799"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Photisarath"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Setthathirath"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lan_Xang, http://dbpedia.org/resource/Muang_Sua"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Xieng-Mai Nhotnakorn Palace, Vientiane, Lan Xang"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Visoun"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Therevada_Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1547_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1548"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Lữ"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Bình_Định, http://dbpedia.org/resource/Đàng_Trong, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Quy Nhơn, Đại Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Hồ Phi Phúc"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Lữ, Nguyễn Văn Lữ"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1787_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1787"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Quang_Toản"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Phú Xuân, Đại Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Huệ"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Quang Toản, Nguyễn Trát"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Phạm_Thị_Liên"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1802_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Regent"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Minor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Dominique_Lefèbvre"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1865_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hiệp_Hòa"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Imperial_City,_Huế, http://dbpedia.org/resource/Đại_Nam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Imperial_City,_Huế, http://dbpedia.org/resource/Đại_Nam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Thiệu_Trị"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Hồng Dật, Nguyễn Phúc Thăng"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Concubine Trương Thị Thuận"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism, http://dbpedia.org/resource/Ruism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1883_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1883-11-29"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jules_Ferry"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/July_Monarchy, http://dbpedia.org/resource/Saint-Dié-des-Vosges, http://dbpedia.org/resource/Vosges_(department)"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/French_Third_Republic, http://dbpedia.org/resource/Paris, http://dbpedia.org/resource/Seine_(department)"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Statesman"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1893_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1893-03-17"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Francis_Garnier"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Saint-Etienne, France"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Hanoi, Vietnam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Officer"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1873_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1873-12-21"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Charles_Rigault_de_Genouilly"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Rochefort, France"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Barcelona, Spain"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Admiral"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1873_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1873"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ngo_Dinh_Diem"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/French_Indochina, http://dbpedia.org/resource/Quảng_Bình_province"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Saigon, http://dbpedia.org/resource/South_Vietnam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Mandarin"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1963_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1963-11-02"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/William_O'Bryen_Drury"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Madras"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Officer"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1811_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1811-03-06"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Bảo_Thăng"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Annam_(French_protectorate), http://dbpedia.org/resource/French_Indochina, http://dbpedia.org/resource/Đà_Lạt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Paris, France"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Bảo_Đại"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nam_Phương"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:2017_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "2017-03-15"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Phan_Đình_Phùng"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hà_Tĩnh_Province, http://dbpedia.org/resource/Nguyễn_dynasty, http://dbpedia.org/resource/Đông_Thái_village"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Annam_(French_protectorate), http://dbpedia.org/resource/Nghệ_An_Province"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1896_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "--01-21"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sun_Shiyi"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hangzhou, http://dbpedia.org/resource/Zhejiang"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hubei, http://dbpedia.org/resource/Laifeng_County"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Official"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1796_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Head_of_government"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Term"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jules_Itier"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1877_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Kiến_Phúc"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Imperial_City,_Huế, http://dbpedia.org/resource/Đại_Nam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Imperial_City,_Huế, http://dbpedia.org/resource/Đại_Nam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Hồng Cai"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Ưng Đăng, Nguyễn Phước Hạo"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Concubine Bùi Thị Thanh"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism, http://dbpedia.org/resource/Ruism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Bồi Lăng"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1884_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1884-07-31"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Thị_Anh"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Nhân_Tông"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Bố Vệ commune, Đông Sơn district, Thiệu Thiên prefect, Thanh Hoa town, Vietnam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Later_Lê_dynasty"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Consort"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1459_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1459-10-04"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jean-Marie_Dayot"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Ile_Maurice, http://dbpedia.org/resource/Kingdom_of_France, http://dbpedia.org/resource/Port_Louis"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyen_Dynasty, http://dbpedia.org/resource/Tonkin_Gulf"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Officer"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1809_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1809"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Tần"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Thái"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đàng_Trong"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Lan"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Tần"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Đoàn Thị Ngọc"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1687_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1687-04-30"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trịnh_Kiểm"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Cối, http://dbpedia.org/resource/Trịnh_Tùng"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Thanh_Hóa_Province, http://dbpedia.org/resource/Yên_Định_District"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Trịnh Lâu"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Trịnh Kiểm"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Hoàng Ngọc Dốc"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1570_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1570-03-29"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ho_Chi_Minh"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ", French Indochina"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/North_Vietnam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1969_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1969-09-02"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Tri_Phương"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Thừa Thiên fu"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Hà Nội province"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Commander"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1873_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Rama_I"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Maha_Senanurak, http://dbpedia.org/resource/Rama_II, http://dbpedia.org/resource/Sakdiphonlasep"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Ayutthaya_(city), http://dbpedia.org/resource/Ayutthaya_Kingdom"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Bangkok, http://dbpedia.org/resource/Grand_Palace, http://dbpedia.org/resource/Siam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Thongdi"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Daoreung"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Founder"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1809_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1809-09-07"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Paul_Doumer"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Aurillac, http://dbpedia.org/resource/Second_French_Empire"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/French_Third_Republic, http://dbpedia.org/resource/Paris"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/President"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1932_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1932-05-07"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Armand_Marc,_comte_de_Montmorin"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Kingdom_of_France, http://dbpedia.org/resource/Paris"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Kingdom_of_France_(1791–92), http://dbpedia.org/resource/Paris"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Statesman"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1792_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1792-09-02"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Hoàng_Kế_Viêm"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Quảng_Bình_Province, http://dbpedia.org/resource/Quảng_Ninh_District"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Quảng_Bình_Province, http://dbpedia.org/resource/Quảng_Ninh_District"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/General"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1909_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1909"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Miên_Định"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Emperor Minh Mạng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Phạm Thị Tuyết"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1886_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1886-11-05"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jules_Patenôtre_des_Noyers"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Raymond_Patenôtre"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Baye, Marne, France"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1925_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "--12-26"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Chargé_d'affaires"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/–"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Nhạc"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Văn_Bảo"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Bình_Định, http://dbpedia.org/resource/Đàng_Trong, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Quy Nhơn, Đại Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Hồ Phi Phúc"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Hồ Nhạc, Nguyễn Nhạc, Nguyễn Văn Nhạc"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Nguyễn Thị Đồng"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1793_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Lan"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Tần"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đàng_Trong"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Nguyên"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Lan"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Mạc_Thị_Giai"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lords"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1648_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1648-03-19"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Ang_Mey"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/French_Cambodia, http://dbpedia.org/resource/Oudong"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Ang Chan II"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Neak Moneang Krachap"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Monarch"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1874_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "December 1874"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Jiaqing_Emperor"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Old_Summer_Palace"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Chengde_Mountain_Resort"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Qianlong_Emperor"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Aisin Gioro Yongyan, Manchu: Yong yan"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Empress_Xiaoyichun"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1820_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ", 1820-09-02"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Amédée_Courbet"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Abbeville, Picardy, France"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Makung, Penghu Islands, Qing Empire"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Admiral"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1885_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1885-06-11"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Napoleon_III"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Louis-Napoléon,_Prince_Imperial"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Paris, France"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Chislehurst, England"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Louis_Bonaparte"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Charles Louis Napoléon Bonaparte"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hortense_de_Beauharnais"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Catholic_Church"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1873_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1873-01-09"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Prime_Minister_of_Vietnam"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Head"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Sycee"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Silver"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Temple_name"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguy?n_dynasty"
+          }
+        }
+      ]
+    }
+  }

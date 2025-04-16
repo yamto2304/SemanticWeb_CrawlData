@@ -1,0 +1,1754 @@
+{
+    "head": {
+      "link": [],
+      "vars": [
+        "person",
+        "_son",
+        "_birthPlace",
+        "_deathPlaces",
+        "_fathers",
+        "_fullNames",
+        "_mothers",
+        "_religions",
+        "_positionTitles",
+        "_buriedPlace",
+        "deathCategories",
+        "_deathDates",
+        "_liveIn"
+      ]
+    },
+    "results": {
+      "distinct": false,
+      "ordered": true,
+      "bindings": [
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Trang_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Vạn Lại Palace, Xuân Châu commune, Thọ Xuân district, Thiệu Thiên prefecture, Thanh Hoa town, Đại Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Chiêu_Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Ninh"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Phạm_Thị_Ngọc_Quỳnh"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Cảnh Tomb"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1548_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1548-03-09"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trịnh_Cương"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Doanh, http://dbpedia.org/resource/Trịnh_Giang"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Đông Kinh, North Vietnam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Đông Kinh, North Vietnam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Trịnh Bính"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Trịnh Cương"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Nguyễn Thị Cảo, Trương Thị Ngọc Chử"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Chua"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1729_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1729-12-20"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Duy_Phường"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Dụ_Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Phường"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Thị_Ngọc_Trang"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Twelfth"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Thanh Trì village , Kim Lũ commune , Đông Kinh, Đại Việt"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1735_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "September 1735"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Anh_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Thế_Tông"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Lê Duy Khoáng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Bang"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Bố Vệ lăng or Thổ Lăng"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1573_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1573-01-22"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Hiển_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Thuần_Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Diêu"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nhu_Thuận_hoàng_hậu"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1786_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1786-08-10"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Mạc_Đăng_Dung"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Mạc Hịch"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Mạc Đăng Dung"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Đặng Thị Hiếu"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1541_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1541-08-22"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trịnh_Giang"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Bồng"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "Đông Kinh, North Vietnam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "Đông Kinh, North Vietnam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Cương"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Trịnh Giang"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Vũ Thị Ngọc Nguyên"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1762_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1762-12-30"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Gia_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Thần_Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Cối"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Thị_Ngọc_Hoàn"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Phúc An Tomb"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1675_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1675-04-27"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Nguyên"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Lan, http://dbpedia.org/resource/Nguyễn_Phúc_Ngọc_Vạn"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đàng_Trong"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Hoàng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Phúc Nguyên"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Nguyễn Thị"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Warlord"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1635_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1635-11-19"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Cung_Hoàng"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Sùng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Xuân"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Thị_Loan"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1527_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1527-06-15"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Chiêu_Thống"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Beijing, http://dbpedia.org/resource/Qing_dynasty"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Duy_Vĩ"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Khiêm, Lê Duy Kỳ"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Empress_Dowager_Mẫn"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Bàn Thạch village, Thanh Hoa, Việt Nam"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1793_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Huệ"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Huyền_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Thần_Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Vũ"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Phạm_Thị_Ngọc_Hậu"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Quả Thịnh Tomb"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1671_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1671-11-16"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Chiêu_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Sùng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Y"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Thị_Loan"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1526_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1526-12-18"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Hoàng"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Phúc_Nguyên"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Thanh_Hóa_Province"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Đàng_Trong"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Kim"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Nguyễn Hoàng"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Nguyễn Thị Mai"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1613_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1613-07-20"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Thế_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Lê Anh Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Đàm"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1599_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1599-10-12"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Nguyễn_Kim"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Thanh_Hóa"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nghệ_An"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Statesman"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1545_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1545"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trịnh_Tráng"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Tạc"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Thanh_Hóa, http://dbpedia.org/resource/Vietnam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đàng_Ngoài"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Tùng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Trịnh Tráng"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Đặng Thị Ngọc Bảo"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1654_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1657-05-28"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trịnh_Sâm"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Cán, http://dbpedia.org/resource/Trịnh_Khải"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Doanh"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Trịnh Sâm"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Nguyễn Thị Ngọc Diễm"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1782_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1782-09-13"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Ý_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Dụ_Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Thận"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Phù Lê Tomb"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1759_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1759-08-10"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Kính_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Lê Thế Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Tân"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Ý Đức hoàng thái hậu"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1619_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1619-06-23"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Chân_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Thần_Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Hựu"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Thị_Ngọc_Bạch"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Hoa Phố Tomb"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1649_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1649-10-02"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Hy_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Thần_Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Cáp"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Nguyễn_Thị_Ngọc_Tấn"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Phú Ninh Tomb"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1718_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1716-06-04"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Qianlong_Emperor"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Jiaqing_Emperor, http://dbpedia.org/resource/Prince_Cheng_of_the_First_Rank, http://dbpedia.org/resource/Prince_Ding, http://dbpedia.org/resource/Prince_Lü, http://dbpedia.org/resource/Prince_Qing, http://dbpedia.org/resource/Prince_Rong, http://dbpedia.org/resource/Prince_Shen, http://dbpedia.org/resource/Prince_Xun_(循), http://dbpedia.org/resource/Prince_Yi_(儀), http://dbpedia.org/resource/Princess_Hejia_of_the_Second_Rank, http://dbpedia.org/resource/Princess_Hejing_(1756–1775), http://dbpedia.org/resource/Princess_Hejing_of_the_First_Rank_(1731-1792), http://dbpedia.org/resource/Princess_Heke_of_the_Second_Rank, http://dbpedia.org/resource/Princess_Hexiao_of_the_First_Rank, http://dbpedia.org/resource/Yongcheng_(prince), http://dbpedia.org/resource/Yonghuang, http://dbpedia.org/resource/Yonglin, http://dbpedia.org/resource/Yongqi,_Prince_Rong, http://dbpedia.org/resource/Yongrong, http://dbpedia.org/resource/Yongxing_(prince), http://dbpedia.org/resource/Yongxuan, http://dbpedia.org/resource/Yongzhang"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Beijing, http://dbpedia.org/resource/Qing_dynasty, http://dbpedia.org/resource/Yonghe_Temple"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Beijing, http://dbpedia.org/resource/Forbidden_City, http://dbpedia.org/resource/Qing_dynasty"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Yongzheng_Emperor"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Aisin Gioro Hongli, Manchu: Hung li"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Empress_Xiaoshengxian"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Vajrayana_Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1799_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ", 1799-02-07"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trịnh_Tạc"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Căn"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/North_Vietnam"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/North_Vietnam"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Tráng"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Trịnh Tạc"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Trần Thị Ngọc Đài"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1682_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1682-09-24"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Thuần_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Dụ_Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Tường"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Thirteenth"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1735_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1735-06-05"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trịnh_Kiểm"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Cối, http://dbpedia.org/resource/Trịnh_Tùng"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Thanh_Hóa_Province, http://dbpedia.org/resource/Yên_Định_District"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "Trịnh Lâu"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Trịnh Kiểm"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Hoàng Ngọc Dốc"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1570_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1570-03-29"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Trung_Tông_(Later_Lê)"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Emperor"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": ""
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": ""
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Thần_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Kính_Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Kỳ"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Thị_Ngọc_Trinh"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Quần Ngọc Tomb"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1662_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1662-11-02"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Lê_Dụ_Tông"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Hanoi, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lê_Hy_Tông"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Lê Duy Đường"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Trịnh Thị"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": ""
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/King"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": "Cổ Đô Tomb"
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1731_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1731-02-27"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Alexandre_de_Rhodes"
+          },
+          "_son": {
+            "type": "literal",
+            "value": ""
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Avignon, http://dbpedia.org/resource/Papal_States"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Isfahan_(city), http://dbpedia.org/resource/Safavid_dynasty"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": ""
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": ""
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Catholic_Church"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Lexicographer"
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1660_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1660-11-05"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        },
+        {
+          "person": {
+            "type": "uri",
+            "value": "http://dbpedia.org/resource/Trịnh_Tùng"
+          },
+          "_son": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Tráng"
+          },
+          "_birthPlace": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Thanh_Hóa, http://dbpedia.org/resource/Đại_Việt"
+          },
+          "_deathPlaces": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Thanh_Oai_District, http://dbpedia.org/resource/Đàng_Ngoài"
+          },
+          "_fathers": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Trịnh_Kiểm"
+          },
+          "_fullNames": {
+            "type": "literal",
+            "value": "Trịnh Tùng"
+          },
+          "_mothers": {
+            "type": "literal",
+            "value": "Nguyễn Thị Ngọc Bảo"
+          },
+          "_religions": {
+            "type": "literal",
+            "value": "Buddhism"
+          },
+          "_positionTitles": {
+            "type": "literal",
+            "value": ""
+          },
+          "_buriedPlace": {
+            "type": "literal",
+            "value": ""
+          },
+          "deathCategories": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Category:1623_deaths"
+          },
+          "_deathDates": {
+            "type": "literal",
+            "value": "1623-07-17"
+          },
+          "_liveIn": {
+            "type": "literal",
+            "value": "http://dbpedia.org/resource/Revival_L?_dynasty"
+          }
+        }
+      ]
+    }
+  }
