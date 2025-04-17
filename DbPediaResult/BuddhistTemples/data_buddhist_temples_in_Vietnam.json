@@ -1,0 +1,212 @@
+{
+    "head": {
+        "link": [],
+        "vars": [
+            "temple"
+        ]
+    },
+    "results": {
+        "distinct": false,
+        "ordered": true,
+        "bindings": [
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Hoa_L\u01B0"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Ho\u1EB1ng_Ph\u00FAc_Pagoda"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Vi\u1EC7t_Nam_Qu\u1ED1c_T\u1EF1"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/D\u00E2u_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Th\u00EDch_Ca_Ph\u1EADt_\u0110\u00E0i"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Thi\u00EAn_M\u1EE5_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Kh'Leang_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/V\u0129nh_Nghi\u00EAm_Pagoda"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Di\u1EC7u_\u0110\u1EBF_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Linh_Phuoc_Pagoda"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Linh_S\u01A1n_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/List_of_Buddhist_temples_in_Vietnam"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Chu\u00F4ng_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Keo_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Huyen_Khong_Son_Thuong_Monastery"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Thuy\u1EC1n_T\u00F4n_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/V\u0129nh_Tr\u00E0ng_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/B\u00E1i_\u0110\u00EDnh_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/B\u00E1o_Qu\u1ED1c_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/B\u00FAt_Th\u00E1p_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/B\u1EEDu_Phong_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Buddhist_temples_in_Hu\u1EBF"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Qu\u1ED1c_\u00C2n_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Long_S\u01A1n_Pagoda"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/S\u1EAFc_T\u1EE9_Tam_B\u1EA3o_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/H\u1ED9i_Kh\u00E1nh_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Tr\u00FAc_L\u00E2m_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Ph\u1EADt_T\u00EDch_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Th\u1EADp_Th\u00E1p_Di-\u0110\u00E0_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Ph\u01B0\u1EDBc_S\u01A1n_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/Ph\u1ED5_Minh_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/T\u00E2y_An_Temple"
+                }
+            },
+            {
+                "temple": {
+                    "type": "uri",
+                    "value": "http://dbpedia.org/resource/T\u1ECBnh_X\u00E1_Trung_T\u00E2m"
+                }
+            }
+        ]
+    }
+}
